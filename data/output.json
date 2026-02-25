@@ -1,0 +1,343 @@
+[
+  {
+    "filename": "images_001.jpg",
+    "bbox": [
+      125.589111328125,
+      38.107444763183594,
+      305.74114990234375,
+      371.8153076171875
+    ],
+    "category": "trousers",
+    "confidence": 0.9999951124191284,
+    "colour": "navy",
+    "detection_confidence": 0.978139340877533
+  },
+  {
+    "filename": "images_002.jpg",
+    "bbox": [
+      49.143821716308594,
+      54.60966873168945,
+      217.41319274902344,
+      398.593505859375
+    ],
+    "category": "jacket",
+    "confidence": 0.5806455016136169,
+    "colour": "grey",
+    "detection_confidence": 0.9985241293907166
+  },
+  {
+    "filename": "images_003.jpg",
+    "bbox": [
+      2.985873222351074,
+      25.13861656188965,
+      204.1790313720703,
+      399.4737548828125
+    ],
+    "category": "dress",
+    "confidence": 0.9754869341850281,
+    "colour": "blue",
+    "detection_confidence": 0.9993407130241394
+  },
+  {
+    "filename": "images_004.jpg",
+    "bbox": [
+      94.13538360595703,
+      21.501754760742188,
+      208.964599609375,
+      370.5017395019531
+    ],
+    "category": "shirt",
+    "confidence": 0.0060650380328297615,
+    "colour": "red",
+    "detection_confidence": 0.9995555281639099
+  },
+  {
+    "filename": "images_005.jpg",
+    "bbox": null,
+    "category": "trousers",
+    "confidence": 0.9749780893325806,
+    "colour": "blue"
+  },
+  {
+    "filename": "images_006.jpg",
+    "bbox": [
+      100.34675598144531,
+      75.11592864990234,
+      162.86270141601562,
+      275.05999755859375
+    ],
+    "category": "shirt",
+    "confidence": 0.20887620747089386,
+    "colour": "navy",
+    "detection_confidence": 0.9995598196983337
+  },
+  {
+    "filename": "images_007.jpg",
+    "bbox": null,
+    "category": "dress",
+    "confidence": 0.2131204456090927,
+    "colour": "grey"
+  },
+  {
+    "filename": "images_008.jpg",
+    "bbox": [
+      217.29075622558594,
+      184.21144104003906,
+      233.2241973876953,
+      224.4856414794922
+    ],
+    "category": "person",
+    "confidence": 0.6459396481513977,
+    "colour": "black",
+    "detection_confidence": 0.9970261454582214
+  },
+  {
+    "filename": "images_008.jpg",
+    "bbox": [
+      106.26020050048828,
+      173.0199432373047,
+      121.61968231201172,
+      233.85304260253906
+    ],
+    "category": "accessory",
+    "confidence": 0.061914920806884766,
+    "colour": "black",
+    "detection_confidence": 0.9394945502281189
+  },
+  {
+    "filename": "images_008.jpg",
+    "bbox": [
+      202.2966766357422,
+      188.3030548095703,
+      214.84556579589844,
+      223.2188720703125
+    ],
+    "category": "person",
+    "confidence": 0.8111094236373901,
+    "colour": "brown",
+    "detection_confidence": 0.9898651242256165
+  },
+  {
+    "filename": "images_008.jpg",
+    "bbox": [
+      68.52599334716797,
+      100.88756561279297,
+      201.41238403320312,
+      372.68597412109375
+    ],
+    "category": "jacket",
+    "confidence": 0.49011802673339844,
+    "colour": "brown",
+    "detection_confidence": 0.9997019171714783
+  },
+  {
+    "filename": "images_009.jpg",
+    "bbox": [
+      47.90690612792969,
+      75.19395446777344,
+      192.056640625,
+      371.66766357421875
+    ],
+    "category": "accessory",
+    "confidence": 0.026579586789011955,
+    "colour": "grey",
+    "detection_confidence": 0.9822330474853516
+  },
+  {
+    "filename": "images_010.jpg",
+    "bbox": [
+      37.05911636352539,
+      70.49806213378906,
+      192.19720458984375,
+      378.25531005859375
+    ],
+    "category": "jacket",
+    "confidence": 0.5819881558418274,
+    "colour": "black",
+    "detection_confidence": 0.9994189739227295
+  },
+  {
+    "filename": "images_010.jpg",
+    "bbox": [
+      144.10269165039062,
+      156.99754333496094,
+      188.2607879638672,
+      343.36663818359375
+    ],
+    "category": "skirt",
+    "confidence": 0.07245225459337234,
+    "colour": "black",
+    "detection_confidence": 0.8043941855430603
+  },
+  {
+    "filename": "images_010.jpg",
+    "bbox": [
+      164.8665771484375,
+      132.14085388183594,
+      179.35855102539062,
+      182.1928253173828
+    ],
+    "category": "accessory",
+    "confidence": 0.16750377416610718,
+    "colour": "grey",
+    "detection_confidence": 0.5929461121559143
+  },
+  {
+    "filename": "images_011.jpg",
+    "bbox": [
+      56.26013946533203,
+      57.71676254272461,
+      203.607421875,
+      397.930419921875
+    ],
+    "category": "jacket",
+    "confidence": 0.3354681432247162,
+    "colour": "black",
+    "detection_confidence": 0.9988695979118347
+  },
+  {
+    "filename": "images_012.jpg",
+    "bbox": null,
+    "category": "shirt",
+    "confidence": 0.991589367389679,
+    "colour": "black"
+  },
+  {
+    "filename": "images_013.jpg",
+    "bbox": [
+      54.37525177001953,
+      27.374267578125,
+      241.8349609375,
+      398.8869323730469
+    ],
+    "category": "jacket",
+    "confidence": 0.6875088810920715,
+    "colour": "red",
+    "detection_confidence": 0.9992510676383972
+  },
+  {
+    "filename": "images_014.jpg",
+    "bbox": null,
+    "category": "jacket",
+    "confidence": 0.6977193355560303,
+    "colour": "black"
+  },
+  {
+    "filename": "images_015.jpg",
+    "bbox": [
+      45.31626892089844,
+      70.8572769165039,
+      265.8010559082031,
+      318.6814270019531
+    ],
+    "category": "shirt",
+    "confidence": 0.9921667575836182,
+    "colour": "red",
+    "detection_confidence": 0.9960124492645264
+  },
+  {
+    "filename": "images_016.jpg",
+    "bbox": null,
+    "category": "jacket",
+    "confidence": 0.9384271502494812,
+    "colour": "grey"
+  },
+  {
+    "filename": "images_017.jpg",
+    "bbox": [
+      71.68474578857422,
+      14.050126075744629,
+      253.94467163085938,
+      388.5078125
+    ],
+    "category": "jacket",
+    "confidence": 0.9696763157844543,
+    "colour": "grey",
+    "detection_confidence": 0.999377429485321
+  },
+  {
+    "filename": "images_018.jpg",
+    "bbox": [
+      30.026451110839844,
+      95.34810638427734,
+      304.29840087890625,
+      362.7401428222656
+    ],
+    "category": "shoes",
+    "confidence": 0.991872251033783,
+    "colour": "red",
+    "detection_confidence": 0.5195531845092773
+  },
+  {
+    "filename": "images_019.jpg",
+    "bbox": [
+      124.02259826660156,
+      144.7914581298828,
+      136.08084106445312,
+      167.51193237304688
+    ],
+    "category": "person",
+    "confidence": 0.24665574729442596,
+    "colour": "blue",
+    "detection_confidence": 0.8256743550300598
+  },
+  {
+    "filename": "images_019.jpg",
+    "bbox": [
+      8.503210067749023,
+      108.4468994140625,
+      256.3536376953125,
+      322.3922119140625
+    ],
+    "category": "shirt",
+    "confidence": 0.05071701109409332,
+    "colour": "navy",
+    "detection_confidence": 0.8354696035385132
+  },
+  {
+    "filename": "images_020.jpg",
+    "bbox": [
+      136.698486328125,
+      13.628292083740234,
+      299.8976135253906,
+      395.63055419921875
+    ],
+    "category": "jacket",
+    "confidence": 0.3638894557952881,
+    "colour": "red",
+    "detection_confidence": 0.9493560791015625
+  },
+  {
+    "filename": "images_020.jpg",
+    "bbox": [
+      137.6316375732422,
+      12.759894371032715,
+      299.8570861816406,
+      179.38137817382812
+    ],
+    "category": "shirt",
+    "confidence": 0.9598993062973022,
+    "colour": "red",
+    "detection_confidence": 0.5197649002075195
+  },
+  {
+    "filename": "images_020.jpg",
+    "bbox": [
+      30.27750015258789,
+      14.705657958984375,
+      273.63726806640625,
+      382.1128845214844
+    ],
+    "category": "jacket",
+    "confidence": 0.6544509530067444,
+    "colour": "red",
+    "detection_confidence": 0.6414088606834412
+  },
+  {
+    "filename": "images_021.jpg",
+    "bbox": null,
+    "category": "shoes",
+    "confidence": 0.999972939491272,
+    "colour": "white"
+  }
+]
